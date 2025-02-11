@@ -1,0 +1,4 @@
+﻿  пр27.cpp
+C:\Users\1loma\Downloads\пр27\пр27.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\1loma\Downloads\пр27\пр27.cpp(13,6): warning C4101: q: неиспользованная локальная переменная
+  пр27.vcxproj -> C:\Users\1loma\Downloads\пр27\x64\Debug\пр27.exe

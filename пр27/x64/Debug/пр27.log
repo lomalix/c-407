@@ -1,0 +1,3 @@
+﻿  пр27.cpp
+C:\Users\user\Documents\11-41\пр27\пр27.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  пр27.vcxproj -> C:\Users\user\Documents\11-41\пр27\x64\Debug\пр27.exe
