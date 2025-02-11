@@ -1,0 +1,4 @@
+﻿  пр10.cpp
+C:\Users\1loma\source\repos\пр10\пр10\пр10.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\1loma\source\repos\пр10\пр10\пр10.cpp(64,3): warning C4551: в вызове функции отсутствует список аргументов
+  пр10.vcxproj -> C:\Users\1loma\source\repos\пр10\x64\Debug\пр10.exe
