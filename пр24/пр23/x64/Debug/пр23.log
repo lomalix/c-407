@@ -1,0 +1,7 @@
+﻿  пр23.cpp
+C:\Users\1loma\source\repos\пр23\пр23\пр23.cpp(17,8): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\1loma\source\repos\пр23\пр23\пр23.cpp(28,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\1loma\source\repos\пр23\пр23\пр23.cpp(30,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\1loma\source\repos\пр23\пр23\пр23.cpp(47,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\1loma\source\repos\пр23\пр23\пр23.cpp(49,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  пр23.vcxproj -> C:\Users\1loma\source\repos\пр23\x64\Debug\пр23.exe
