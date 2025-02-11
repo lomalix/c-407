@@ -1,0 +1,5 @@
+﻿  пр8.cpp
+C:\Users\1loma\source\repos\пр8\пр8\пр8.cpp(62,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр8\пр8\пр8.cpp(118,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр8\пр8\пр8.cpp(123,3): warning C4551: в вызове функции отсутствует список аргументов
+  пр8.vcxproj -> C:\Users\1loma\source\repos\пр8\x64\Debug\пр8.exe
