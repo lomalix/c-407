@@ -1,0 +1,13 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\1loma\Downloads\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(57,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\Downloads\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(84,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\Downloads\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(118,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\Downloads\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(177,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\Downloads\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(209,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\Downloads\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(227,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\Downloads\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(231,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\Downloads\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(235,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\Downloads\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(238,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\Downloads\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(242,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\Downloads\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(21,6): warning C4101: num44: неиспользованная локальная переменная
+  ConsoleApplication4.vcxproj -> C:\Users\1loma\Downloads\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
