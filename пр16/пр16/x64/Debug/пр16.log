@@ -1,0 +1,14 @@
+﻿  пр16.cpp
+C:\Users\1loma\source\repos\пр16\пр16\пр16.cpp(57,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр16\пр16\пр16.cpp(84,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр16\пр16\пр16.cpp(118,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр16\пр16\пр16.cpp(177,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр16\пр16\пр16.cpp(205,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр16\пр16\пр16.cpp(223,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр16\пр16\пр16.cpp(227,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр16\пр16\пр16.cpp(231,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр16\пр16\пр16.cpp(256,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр16\пр16\пр16.cpp(259,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр16\пр16\пр16.cpp(263,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр16\пр16\пр16.cpp(21,6): warning C4101: num44: неиспользованная локальная переменная
+  пр16.vcxproj -> C:\Users\1loma\source\repos\пр16\x64\Debug\пр16.exe
