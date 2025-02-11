@@ -1,0 +1,3 @@
+C:\Users\1loma\source\repos\ConsoleApplication10\ConsoleApplication10\x64\Debug\ConsoleApplication10.exe
+C:\Users\user\Downloads\ConsoleApplication10\ConsoleApplication10\x64\Debug\ConsoleApplication10.exe
+C:\Users\1loma\Downloads\ConsoleApplication10\ConsoleApplication10\x64\Debug\ConsoleApplication10.exe

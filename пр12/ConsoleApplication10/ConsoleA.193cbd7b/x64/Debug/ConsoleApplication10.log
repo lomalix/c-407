@@ -1,0 +1,5 @@
+﻿  ConsoleApplication10.cpp
+C:\Users\1loma\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(618,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(622,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(626,3): warning C4551: в вызове функции отсутствует список аргументов
+  ConsoleApplication10.vcxproj -> C:\Users\1loma\source\repos\ConsoleApplication10\ConsoleApplication10\x64\Debug\ConsoleApplication10.exe
