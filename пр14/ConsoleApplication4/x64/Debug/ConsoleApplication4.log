@@ -1,0 +1,8 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\user\Pictures\ConsoleApplication1\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(56,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\user\Pictures\ConsoleApplication1\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(83,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\user\Pictures\ConsoleApplication1\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(117,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\user\Pictures\ConsoleApplication1\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(176,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\user\Pictures\ConsoleApplication1\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(181,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\user\Pictures\ConsoleApplication1\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(185,3): warning C4551: в вызове функции отсутствует список аргументов
+  ConsoleApplication4.vcxproj -> C:\Users\user\Pictures\ConsoleApplication1\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
