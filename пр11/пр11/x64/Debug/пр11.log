@@ -1,0 +1,5 @@
+﻿  пр11.cpp
+C:\Users\1loma\source\repos\пр11\пр11\пр11.cpp(45,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр11\пр11\пр11.cpp(50,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр11\пр11\пр11.cpp(54,3): warning C4551: в вызове функции отсутствует список аргументов
+  пр11.vcxproj -> C:\Users\1loma\source\repos\пр11\x64\Debug\пр11.exe
