@@ -1,0 +1,6 @@
+﻿  пр13.cpp
+C:\Users\1loma\source\repos\пр13\пр13\пр13.cpp(55,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр13\пр13\пр13.cpp(115,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр13\пр13\пр13.cpp(120,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\1loma\source\repos\пр13\пр13\пр13.cpp(124,3): warning C4551: в вызове функции отсутствует список аргументов
+  пр13.vcxproj -> C:\Users\1loma\source\repos\пр13\x64\Debug\пр13.exe
